@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<devices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="supported.xsd">
-    <device codename="crownlte" manufacturer="samsung" relativePath="devices/samsung/crownlte.xml" />
-</devices>
+<project>
+    <devices>
+        <device codename="crownlte" manufacturer="samsung"
+            relativePath="devices/samsung/crownlte.xml" />
+    </devices>
+</project>

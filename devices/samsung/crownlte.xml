@@ -3,4 +3,5 @@
     <latestBranch>thirteen</latestBranch>
     <branches>thirteen</branches>
     <githubRemote>X-ID-Rom/android_device_samsung_crownlte</githubRemote>
+    <devicePath>device/samsung/crownlte</devicePath>
 </deviceinfo>

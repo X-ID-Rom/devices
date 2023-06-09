@@ -2,6 +2,6 @@
 <project>
     <devices>
         <device codename="crownlte" manufacturer="samsung"
-            relativePath="devices/samsung/crownlte.xml" best  />
+            relativePath="devices/samsung/crownlte.xml" />
     </devices>
 </project>

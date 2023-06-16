@@ -3,7 +3,7 @@
     <dependencies>
         <dependency
             path="device/samsung/crownlte" name="device_samsung_crownlte"
-            remote="pixel-devices" revision="thirteen" />
+            remote="xid-devices" revision="thirteen" />
         <dependency
             path="kernel/samsung/exynos9810" name="kernel_samsung_exynos9810"
             remote="pixel-devices" revision="thirteen" />

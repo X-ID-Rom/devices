@@ -7,5 +7,7 @@
     <devices>
         <device codename="crownlte" manufacturer="samsung"
             relativePath="devices/samsung/crownlte.xml" status="0" />
+        <device codename="lavender" manufacturer="xiaomi"
+            relativePath="devices/samsung/crownlte.xml" status="0" />
     </devices>
 </project>

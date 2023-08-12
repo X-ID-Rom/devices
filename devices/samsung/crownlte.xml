@@ -1,6 +1,5 @@
 <deviceinfo>
     <codename>crownlte</codename>
-
     <dependencies>
         <dependency
             path="device/samsung/crownlte" name="device_samsung_crownlte"

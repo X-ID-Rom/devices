@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
+    <status-device>
+        <status code="0" description="DISCONTINUED" />
+        <status code="1" description="SUPPORTED" />
+    </status-device>
     <devices>
         <device codename="crownlte" manufacturer="samsung"
-            relativePath="devices/samsung/crownlte.xml" />
+            relativePath="devices/samsung/crownlte.xml" status="0" />
     </devices>
 </project>
